@@ -14,7 +14,7 @@
         <!-- ini adalah pembuka navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Adel</a>
+                <a class="navbar-brand" href="#">Hasqibar</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -34,8 +34,8 @@
             </div>
         </nav>
         <!-- ini adalah penutup navbar -->
-        <!-- Content 1 -->
-        <div class="container">
+        <!-- content1 -->
+        <div class="container" id="perkenalan">
             <div class="row">
                 <div class="col-4">
                     <div class="card mx-auto" style="width: 18rem;">
@@ -51,7 +51,26 @@
                 </div>
             </div>
         </div>
-        <!-- Content 1 -->
+        <!-- penutup content 1 -->
+        <!-- content2 -->
+        <div class="container" id="alamat">
+            <div class="row">
+                <div class="col-8">
+                    <div class="card mx-auto" style="width: 18rem;">
+                        <img src="assets/img/qibar.png" class="card-img-top" style="width: 9rem;">
+                        <div class="card-body">
+                            <p class="card-text">Qibar</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <h1>Selamat datang di website saya</h1>
+                    <p>Perkenalkan saya Muhammad Rizqi Akbar Rabbani biasa dipanggil Qibar , saya memiliki kemampuan untuk menggambar desain grafis dengan konsep yang matang , lalu saya menyukai pemograman tetapi tidak terlalu fokus dalam bidang pemograman , saya suka indomie pake telor sambil nonton 100 mob pyshco, komunikasi saya menggunakan wa dan ig </p>
+                </div>
+            </div>
+        </div>
+        <!-- penutup content 1 -->
+        
     </div>
 
 
