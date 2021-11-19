@@ -56,16 +56,23 @@
         <div class="container" id="alamat">
             <div class="row">
                 <div class="col-8">
-                    <div class="card mx-auto" style="width: 18rem;">
-                        <img src="assets/img/qibar.png" class="card-img-top" style="width: 9rem;">
-                        <div class="card-body">
-                            <p class="card-text">Qibar</p>
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                        <img src="assets/slide/rumah1.jpeg" class="d-block w-100" alt="...">
                         </div>
+                        <div class="carousel-item">
+                        <img src="assets/slide/rumah2.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                        <img src="assets/slide/rumah3.jpg" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
                     </div>
                 </div>
                 <div class="col-4">
-                    <h1>Selamat datang di website saya</h1>
-                    <p>Perkenalkan saya Muhammad Rizqi Akbar Rabbani biasa dipanggil Qibar , saya memiliki kemampuan untuk menggambar desain grafis dengan konsep yang matang , lalu saya menyukai pemograman tetapi tidak terlalu fokus dalam bidang pemograman , saya suka indomie pake telor sambil nonton 100 mob pyshco, komunikasi saya menggunakan wa dan ig </p>
+                    <h1>Alamat Saya</h1>
+                    <p>JL Mardani Raya Gang S no 17 RW 05 RW 14</p>
                 </div>
             </div>
         </div>
